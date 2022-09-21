@@ -1,1 +1,3 @@
 Taller 6 MVC
+
+Run requirements.txt. Then, run: python manage.py runserver
